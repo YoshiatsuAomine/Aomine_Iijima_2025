@@ -27,7 +27,7 @@ All scripts and notebooks included here were used for processing, analyzing, and
 
 ---
 
-### TCR-seq Analysis (R and Shell)
+### TCR-seq Analysis (R and Shell Scripts)
 
 - **`r_mouse_TCRseq_Donut.R`**  
   R script for **TCR-seq analysis**, generating **donut plots**.
